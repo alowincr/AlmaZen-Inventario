@@ -1,0 +1,5 @@
+com\almazen\webapp\controller\ClienteServlet.class
+com\almazen\webapp\controller\LoginServlet.class
+com\almazen\webapp\JakartaRestConfiguration.class
+com\almazen\webapp\resources\JakartaEE10Resource.class
+com\almazen\webapp\controller\AdminServlet.class
